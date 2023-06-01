@@ -8,4 +8,4 @@ Saya Raisyad Jullfikar NIM 2106238 mengerjakan TP4 dalam mata kuliah Desain dan 
 * Buat CRUD dari tabel  baru tersebut
 
 ## Design Program
-<img width="230" alt="image" src="https://github.com/raisyad/TP4DPBO2023C2/assets/92106283/7ed03511-2f70-498d-a266-88e22f0a0299">
+<img width="630" alt="image" src="https://github.com/raisyad/TP4DPBO2023C2/assets/92106283/7ed03511-2f70-498d-a266-88e22f0a0299">
